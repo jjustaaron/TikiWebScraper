@@ -1,1 +1,1 @@
-Scrapping 1 product on Tiki
+Scraping 1 product on Tiki
